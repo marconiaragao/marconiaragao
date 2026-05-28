@@ -1,4 +1,4 @@
-# Olá, eu sou o Marconi Aragão 👋
+Marconi Aragão 👋
 
 Atualmente estou expandindo meus horizontes na **Tecnologia**, focando em desenvolvimento de software e sistemas. Unindo o pensamento estruturado e estético do design com a lógica da programação.
 
@@ -20,7 +20,7 @@ Atualmente estou expandindo meus horizontes na **Tecnologia**, focando em desenv
 ### 📊 Minhas Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marconiaragao&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Status do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marconiaragao&layout=compact&theme=gotham" alt="Linguagens mais usadas" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?marconiaragao&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Status do GitHub" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?marconiaragao&layout=compact&theme=gotham" alt="Linguagens mais usadas" height="180em" />
 </p>
 </br>
