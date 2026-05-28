@@ -2,9 +2,9 @@ Marconi Aragão 👋
 
 Atualmente estou expandindo meus horizontes na **Tecnologia**, focando em desenvolvimento de software e sistemas. Unindo o pensamento estruturado e estético do design com a lógica da programação.
 
-- 🚀 Atualmente aprofundando meus conhecimentos no ecossistema **.NET** e na linguagem **C#**.
-- 🎓 Estudando **Sistemas para Internet**.
-- 🛠️ Buscando integrar automação, tecnologia e arquitetura de forma inteligente.
+🚀 Atualmente aprofundando meus conhecimentos no ecossistema **.NET** e na linguagem **C#**.
+🎓 Estudando **Sistemas para Internet**.
+🛠️ Buscando integrar automação, tecnologia e arquitetura de forma inteligente.
 
 ### 🛠️ Tecnologias e Ferramentas
 
