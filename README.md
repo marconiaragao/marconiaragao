@@ -1,4 +1,4 @@
-## Bem vindo, meu amigo! Me chamo Marconi Aragão!
+## Bem vindo, meu amigo!
 
 Atualmente estou expandindo meus horizontes na **Tecnologia**, focando em desenvolvimento de software e sistemas. Unindo o pensamento estruturado e estético do design com a lógica da programação.
 
